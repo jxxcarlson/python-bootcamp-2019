@@ -1,5 +1,5 @@
 HDR Source: ftp://podaac.jpl.nasa.gov/allData/merged_alt/L2/TP_J1_OSTM/global_mean_sea_level/GMSL_TPJAOS_4.2_199209_201901.txt
-HDR Web page: https://climate.nasa.gov/vital-signs/sea-level/
+HDR Web page  : https://climate.nasa.gov/vital-signs/sea-level/
 HDR Global Mean Sea Level Data
 HDR
 HDR This file contains Global Mean Sea Level (GMSL) variations computed at the NASA Goddard Space Flight Center under the
