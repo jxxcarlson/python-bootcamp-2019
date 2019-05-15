@@ -23,6 +23,7 @@ f = 440.0       # sound frequency (Hz)
 
 # Compute waveform samples
 start = time()
+
 t = np.linspace(0, T, T*rate, endpoint=False)
 x = np.sin(2*np.pi * f * t)
 end = time()
@@ -30,6 +31,8 @@ print "Compute waveform: ", round((end - start)*1000,2) , "ms"
 
 # Write the samples to a file
 start = time()
+
 wavio.write("sine.wav", x, rate, sampwidth=3)
+
 end = time()
 print "Write file: ", round((end - start)*1000,2) , "ms"
