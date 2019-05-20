@@ -10,7 +10,7 @@ __pycache__/
 
 weekly_lessons/week_1/audio/old/
 weekly_lessons/week_1/audio/wav/
-weekly_lessons/week_1/audio/*.wav
+# weekly_lessons/week_1/audio/*.wav
 
 weekly_lessons/week_2/birdsong/
 weekly_lessons/week_2/*.png
