@@ -23,6 +23,8 @@ Data Science is a big subject, and we certainly can't learn it all in three week
 
 * [towardsdatascience.com](https://towardsdatascience.com/)
 
+* [kaggle.com](https://www.kaggle.com) — data sources
+
 * [scipy.org](https://scipy.org/)
 
 ## Web pages
@@ -30,3 +32,5 @@ Data Science is a big subject, and we certainly can't learn it all in three week
 * [Pandas Cheat Sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
 
 * [PCA using Python (scikit-learn)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
+
+* [Portfolio Theory (PDF)](http://www.its.caltech.edu/~rosentha/courses/BEM103/Readings/JWCh07.pdf)
